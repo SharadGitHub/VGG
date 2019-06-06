@@ -1,2 +1,2 @@
 # VGG
-This has implementation of VGG model from scratch in PyTorch
+This repository has implementation of VGG model from scratch using PyTorch on CIFAR10 dataset
